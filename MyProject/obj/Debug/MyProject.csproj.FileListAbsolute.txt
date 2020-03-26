@@ -1,0 +1,9 @@
+C:\Users\ANUP\Documents\GitHub\MyProject\MyProject\bin\Debug\MyProject.exe.config
+C:\Users\ANUP\Documents\GitHub\MyProject\MyProject\bin\Debug\MyProject.exe
+C:\Users\ANUP\Documents\GitHub\MyProject\MyProject\bin\Debug\MyProject.pdb
+C:\Users\ANUP\Documents\GitHub\MyProject\MyProject\obj\Debug\MyProject.csprojAssemblyReference.cache
+C:\Users\ANUP\Documents\GitHub\MyProject\MyProject\obj\Debug\MyProject.Form1.resources
+C:\Users\ANUP\Documents\GitHub\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+C:\Users\ANUP\Documents\GitHub\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.cache
+C:\Users\ANUP\Documents\GitHub\MyProject\MyProject\obj\Debug\MyProject.exe
+C:\Users\ANUP\Documents\GitHub\MyProject\MyProject\obj\Debug\MyProject.pdb
